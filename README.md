@@ -1,6 +1,6 @@
 Its gonne be like "obilet.com", full version with major changes gonna be here soon.
 
-The purpose of software is to teach oop orientation to students.
+This is a ticket system software for intercity transportation company.
 
 ![image](https://github.com/OGskrrt/BuBilet/assets/135557803/cfe2acf1-09e5-4f77-adb2-34d59c186b71)
 ![image](https://github.com/OGskrrt/BuBilet/assets/135557803/7b61aa88-c4a0-4513-b28d-c6cf4c4e9f3d)
